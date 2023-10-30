@@ -48,7 +48,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - name: _5h_; extra comments?
 - name: _6h_;
