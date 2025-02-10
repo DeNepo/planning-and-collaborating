@@ -16,10 +16,6 @@ Here's a template you can copy-paste into `/planning/communication.md`.
 ```markdown
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
-
 ---
 
 ## Communication Schedule
