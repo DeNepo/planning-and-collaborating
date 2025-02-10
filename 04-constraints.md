@@ -44,8 +44,9 @@ Some boundaries around our project.
 ## Internal: Voluntary
 
 <!--
-  constraints that your team decided on to help scope the project. they may include:
+  constraints that your team decided on to help scope & structure the project. they may include:
   - coding style & conventions
+  - branching and workflow conventions
   - agree on a code review checklist for the project repository
   - the number of hours you want to spend working
   - only using the colors black and white
